@@ -5,6 +5,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thi-Ponce)](https://github.com/anuraghazra/github-readme-stats)
-- 🌱 I’m currently a student at Microverse.
 - 📫 How to reach me: thi.pponce@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Fun fact: I used to study Fashion Design so that's kind of my hobby now. I'm a sucker for a good mystery and romance novel as well.
