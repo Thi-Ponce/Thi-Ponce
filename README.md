@@ -7,5 +7,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thi-Ponce)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me: thi.pponce@gmail.com
 - 😄 Fun fact: I used to study Fashion Design so that's kind of my hobby now. I'm a sucker for a good mystery and romance novel as well.
-- 📖 Currently learning React and Reux;
+- 📖 Currently learning Ruby;
 - 🔊 Feel free to comment and give feedback on my projects!
